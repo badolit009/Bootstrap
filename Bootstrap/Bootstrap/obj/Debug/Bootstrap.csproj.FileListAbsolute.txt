@@ -1,0 +1,12 @@
+G:\Badol\Bootstrap\Bootstrap\bin\Bootstrap.dll.config
+G:\Badol\Bootstrap\Bootstrap\bin\Bootstrap.dll
+G:\Badol\Bootstrap\Bootstrap\bin\Bootstrap.pdb
+G:\Badol\Bootstrap\Bootstrap\obj\Debug\Bootstrap.csprojResolveAssemblyReference.cache
+G:\Badol\Bootstrap\Bootstrap\obj\Debug\Bootstrap.dll
+G:\Badol\Bootstrap\Bootstrap\obj\Debug\Bootstrap.pdb
+E:\BASIS Tuts\4-11-14\Bootstrap\Bootstrap\bin\Bootstrap.dll.config
+E:\BASIS Tuts\4-11-14\Bootstrap\Bootstrap\bin\Bootstrap.dll
+E:\BASIS Tuts\4-11-14\Bootstrap\Bootstrap\bin\Bootstrap.pdb
+E:\BASIS Tuts\4-11-14\Bootstrap\Bootstrap\obj\Debug\Bootstrap.csprojResolveAssemblyReference.cache
+E:\BASIS Tuts\4-11-14\Bootstrap\Bootstrap\obj\Debug\Bootstrap.dll
+E:\BASIS Tuts\4-11-14\Bootstrap\Bootstrap\obj\Debug\Bootstrap.pdb
